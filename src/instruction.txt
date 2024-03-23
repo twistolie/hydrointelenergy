@@ -1,0 +1,9 @@
+*** Set up of project colors from figma file
+
+# test to find out that the colors actually work
+
+# set up the fonts from google fonts
+
+# In Navbar at navitems; to be modified to fit preference
+
+# Change colors in the tailwind.config.js file for customization
